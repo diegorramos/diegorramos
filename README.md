@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Diego Rocha
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Creditas**
 - 🌱 I’m currently learning **Elixir**
 - 🤔 I’m looking for help with **Cooking, Machine Learning, Data Science and many other things**
